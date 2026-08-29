@@ -1,0 +1,23 @@
+# Raw and processed data — too large for version control
+data/raw/
+data/processed/
+data/db/
+
+# Database files
+*.duckdb
+
+# Secrets — never commit API keys or credentials
+.env
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+
+# OS files
+Thumbs.db
