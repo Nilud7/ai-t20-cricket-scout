@@ -1,0 +1,17 @@
+# Phase 1 — Core data and API
+pandas
+fastapi
+uvicorn
+duckdb
+python-dotenv
+jupyter
+pytest
+
+# Phase 2 — ML (uncomment when ready)
+# scikit-learn
+# xgboost
+# lightgbm
+# shap
+
+# Phase 3 — LLM (uncomment when ready)
+# anthropic
