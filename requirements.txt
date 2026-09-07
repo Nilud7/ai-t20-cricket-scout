@@ -5,6 +5,7 @@ uvicorn
 duckdb
 python-dotenv
 jupyter
+requests
 pytest
 
 # Phase 2 — ML (uncomment when ready)
